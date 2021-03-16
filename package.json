@@ -28,14 +28,14 @@
 			},
 			{
 				"command": "metadata-query.query",
-				"title": "元数据解释"
+				"title": "元数据查询"
 			}
 		],
 		"keybindings": [
 			{
 				"command": "metadata-query.input",
-				"key": "ctrl+m",
-				"mac": "cmd+m",
+				"key": "alt+m",
+				"mac": "alt+m",
 				"when": "editorTextFocus"
 			}
 		],
